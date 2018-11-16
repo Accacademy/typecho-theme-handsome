@@ -5,7 +5,7 @@
       <?php $this->options->BottomInfo(); ?>
       <a data-no-instant target="blank" href="http://www.typecho.org">Typecho</a> ♡ <a data-no-instant target="blank" href="https://github.com/ikym/typecho-theme-handsome">handsome</a> <a onclick="gotoTop()" class="m-l-sm text-muted" data-toggle="tooltip" data-placement="auto left" title="返回顶部"><i class="iconfont icon-longarrowup"></i></a>
       </span><?php $this->options->BottomleftInfo(); ?>
-      &copy; <?php echo date("Y");?> <a data-no-instant target="blank" href="http://www.mliy.net">QiMeng</a>.
+      &copy; 2016 - <?php echo date("Y");?> <a data-no-instant target="blank" href="http://www.mliy.net">QiMeng</a>.
 	  <!-- Global site tag (gtag.js) - Google Analytics -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=UA-124922500-2"></script>
 <script>
