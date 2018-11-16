@@ -3,7 +3,7 @@
     <div class="wrapper b-t bg-light">
       <span class="pull-right hidden-xs">
       <?php $this->options->BottomInfo(); ?>
-      <a data-no-instant target="blank" href="http://www.typecho.org">Typecho</a> ♡ <a data-no-instant target="blank" href="https://github.com/ikym/typecho-theme-handsome">handsome</a> <a onclick="gotoTop()" class="m-l-sm text-muted" data-toggle="tooltip" data-placement="auto left" title="返回顶部"><i class="iconfont icon-longarrowup"></i></a>
+      <a data-no-instant target="blank" href="http://www.typecho.org">Typecho</a> | <a data-no-instant target="blank" href="https://github.com/ikym/typecho-theme-handsome">handsome</a> | <a data-no-instant target="blank" href="https://clientarea.gigsgigscloud.com/?affid=1843">GigsGigsCloud</a> <a onclick="gotoTop()" class="m-l-sm text-muted" data-toggle="tooltip" data-placement="auto left" title="返回顶部"><i class="iconfont icon-longarrowup"></i></a>
       </span><?php $this->options->BottomleftInfo(); ?>
       &copy; 2016 - <?php echo date("Y");?> <a data-no-instant target="blank" href="http://www.mliy.net">QiMeng</a>.
 	  <!-- Global site tag (gtag.js) - Google Analytics -->
