@@ -2,7 +2,7 @@
 
 > 如少年般，迎风而立
 
-[**☞ Live Preview**](https://www.mliy.net)  |  [**✎ 中文版使用文档**](https://handsome.ihewro.com/)
+[**☞ Live Preview**](https://www.mlio.net)  |  [**✎ 中文版使用文档**](https://handsome.ihewro.com/)
 
 
 ![handsome](https://lia.im/images/7Q0m.png)
